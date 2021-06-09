@@ -9,4 +9,4 @@ All the skills required for Data Engineering
 - Cloud (Google, AWS, Azure)
 - ETL
 - Data Lake, Data Warehousing
-
+- Azure Synapse Analytics
