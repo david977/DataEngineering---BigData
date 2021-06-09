@@ -6,6 +6,7 @@ All the skills required for Data Engineering
 - Apache Spark 
 - Architecting Big Data Applications
 - SQL
-- Cloud
+- Cloud (Google, AWS, Azure)
 - ETL
 - Data Lake, Data Warehousing
+
